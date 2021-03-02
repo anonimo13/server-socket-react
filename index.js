@@ -6,6 +6,9 @@ const server = new Server();
 server.execute();
 
 
+// heroku logs -n 1000 --tail
+
+
 
 
 // // Servidor de Express
